@@ -57,7 +57,7 @@
 
 	<distributionManagement>
 		<repository>
-			<id>bintray-flowcomputing-commons-common-primitives</id>
+			<id>bintray-wewela</id>
 			<name>flowcomputing-commons-common-primitives</name>
 			<url>https://api.bintray.com/maven/flowcomputing/commons/common-primitives</url>
 		</repository>
