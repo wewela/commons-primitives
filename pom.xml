@@ -4,8 +4,9 @@
 	<artifactId>commons-primitives</artifactId>
 	<version>0.6.1-SNAPSHOT</version>
 
-	<name>Flowcomputing Resource Collector</name>
-	<description>Collect resources</description>
+	<name>${project.groupId}:${project.artifactId}</name>
+	<description>flowcomputing primitives</description>
+	<url>https://github.com/wewela/commons-primitives</url>
 
 	<developers>
 		<developer>
